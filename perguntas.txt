@@ -1,0 +1,30 @@
+Qual comando lista arquivos com detalhes (permissões, dono, tamanho)?|ls -l|ls|dir|list|1
+Qual comando altera permissões de arquivos?|chmod|chown|chgrp|perm|1
+Qual comando altera o dono de um arquivo?|chown|chmod|useradd|passwd|1
+Qual diretório contém arquivos de configuração do sistema?|/etc|/var|/home|/bin|1
+Qual diretório contém arquivos de log?|/var/log|/etc/log|/home/log|/usr/log|1
+Qual diretório é o diretório pessoal do usuário?|/home|/root|/usr|/etc|1
+Qual comando exibe o caminho do diretório atual?|pwd|cd|ls|path|1
+Qual comando muda para o diretório home?|cd ~|cd /|cd home|cd ..|1
+Qual comando remove um diretório vazio?|rmdir|rm|del|erase|1
+Qual comando remove diretórios com conteúdo?|rm -r|rmdir|delete|remove|1
+Qual comando mostra processos em execução?|ps|jobs|top|htop|1
+Qual comando mostra processos em tempo real?|top|ps|jobs|kill|1
+Qual comando termina um processo pelo PID?|kill|stop|end|terminate|1
+Qual comando mostra uso de disco?|df|du|ls|free|1
+Qual comando mostra uso de memória?|free|df|top|ps|1
+Qual comando busca arquivos por nome?|find|grep|locate|search|1
+Qual comando busca texto dentro de arquivos?|grep|find|awk|sed|1
+Qual comando compacta arquivos com gzip?|gzip|tar|zip|compress|1
+Qual comando cria arquivo tar?|tar|gzip|zip|cpio|1
+Qual comando extrai arquivo tar?|tar -x|tar -c|untar|unzip|1
+Qual comando lista tarefas agendadas do cron?|crontab -l|cron -l|list cron|jobs|1
+Qual comando edita o crontab?|crontab -e|cron -e|edit cron|crontab edit|1
+Qual comando adiciona usuário?|useradd|adduser|newuser|mkuser|1
+Qual comando altera senha do usuário?|passwd|chpass|setpass|password|1
+Qual comando mostra informações do kernel?|uname|kernel|sysinfo|info|1
+Qual opção mostra versão do kernel?|uname -r|uname -v|uname -a|uname -k|1
+Qual comando reinicia o sistema?|reboot|shutdown -r|init 6|Todos os anteriores|4
+Qual comando desliga o sistema?|shutdown -h now|poweroff|halt|Todos os anteriores|4
+Qual comando lista interfaces de rede?|ip a|ifconfig|netstat|Todos os anteriores|4
+Qual comando mostra conexões de rede?|netstat|ss|ip|Todos os anteriores|4
